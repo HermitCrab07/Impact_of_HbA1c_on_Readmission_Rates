@@ -24,7 +24,4 @@ Whether you are a data scientist, a medical professional, or just someone intere
 #### License
 This project is made available under the [MIT License](LICENSE.md).
 
-#### Contact
-For more discussion or to give feedback, please send an email to [asgpss@gmail.com].
-
 ---
